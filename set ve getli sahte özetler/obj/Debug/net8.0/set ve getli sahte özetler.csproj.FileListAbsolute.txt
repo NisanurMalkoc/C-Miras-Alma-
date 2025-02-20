@@ -1,0 +1,14 @@
+C:\Users\Nisanur\source\repos\MİRAS ALMA\set ve getli sahte özetler\bin\Debug\net8.0\set ve getli sahte özetler.exe
+C:\Users\Nisanur\source\repos\MİRAS ALMA\set ve getli sahte özetler\bin\Debug\net8.0\set ve getli sahte özetler.deps.json
+C:\Users\Nisanur\source\repos\MİRAS ALMA\set ve getli sahte özetler\bin\Debug\net8.0\set ve getli sahte özetler.runtimeconfig.json
+C:\Users\Nisanur\source\repos\MİRAS ALMA\set ve getli sahte özetler\bin\Debug\net8.0\set ve getli sahte özetler.dll
+C:\Users\Nisanur\source\repos\MİRAS ALMA\set ve getli sahte özetler\bin\Debug\net8.0\set ve getli sahte özetler.pdb
+C:\Users\Nisanur\source\repos\MİRAS ALMA\set ve getli sahte özetler\obj\Debug\net8.0\set ve getli sahte özetler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nisanur\source\repos\MİRAS ALMA\set ve getli sahte özetler\obj\Debug\net8.0\set ve getli sahte özetler.AssemblyInfoInputs.cache
+C:\Users\Nisanur\source\repos\MİRAS ALMA\set ve getli sahte özetler\obj\Debug\net8.0\set ve getli sahte özetler.AssemblyInfo.cs
+C:\Users\Nisanur\source\repos\MİRAS ALMA\set ve getli sahte özetler\obj\Debug\net8.0\set ve getli sahte özetler.csproj.CoreCompileInputs.cache
+C:\Users\Nisanur\source\repos\MİRAS ALMA\set ve getli sahte özetler\obj\Debug\net8.0\set ve getli sahte özetler.dll
+C:\Users\Nisanur\source\repos\MİRAS ALMA\set ve getli sahte özetler\obj\Debug\net8.0\refint\set ve getli sahte özetler.dll
+C:\Users\Nisanur\source\repos\MİRAS ALMA\set ve getli sahte özetler\obj\Debug\net8.0\set ve getli sahte özetler.pdb
+C:\Users\Nisanur\source\repos\MİRAS ALMA\set ve getli sahte özetler\obj\Debug\net8.0\set ve getli sahte özetler.genruntimeconfig.cache
+C:\Users\Nisanur\source\repos\MİRAS ALMA\set ve getli sahte özetler\obj\Debug\net8.0\ref\set ve getli sahte özetler.dll
